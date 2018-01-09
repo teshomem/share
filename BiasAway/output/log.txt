@@ -1,0 +1,63 @@
+*** WARNING ***
+                    Sample larger than population for 0% G+C content:
+                    104520 needed and 1584 obtained
+*** WARNING ***
+                    Sample larger than population for 31% G+C content:
+                    104520 needed and 166 obtained
+*** WARNING ***
+                    Sample larger than population for 32% G+C content:
+                    104520 needed and 318 obtained
+*** WARNING ***
+                    Sample larger than population for 33% G+C content:
+                    104520 needed and 583 obtained
+*** WARNING ***
+                    Sample larger than population for 35% G+C content:
+                    156780 needed and 1702 obtained
+*** WARNING ***
+                    Sample larger than population for 36% G+C content:
+                    313560 needed and 2596 obtained
+*** WARNING ***
+                    Sample larger than population for 37% G+C content:
+                    365820 needed and 3586 obtained
+*** WARNING ***
+                    Sample larger than population for 38% G+C content:
+                    418080 needed and 4313 obtained
+*** WARNING ***
+                    Sample larger than population for 39% G+C content:
+                    418080 needed and 4774 obtained
+*** WARNING ***
+                    Sample larger than population for 40% G+C content:
+                    679380 needed and 4992 obtained
+*** WARNING ***
+                    Sample larger than population for 41% G+C content:
+                    783900 needed and 4722 obtained
+*** WARNING ***
+                    Sample larger than population for 42% G+C content:
+                    574860 needed and 4196 obtained
+*** WARNING ***
+                    Sample larger than population for 43% G+C content:
+                    209040 needed and 3609 obtained
+*** WARNING ***
+                    Sample larger than population for 44% G+C content:
+                    418080 needed and 3056 obtained
+*** WARNING ***
+                    Sample larger than population for 45% G+C content:
+                    313560 needed and 2294 obtained
+*** WARNING ***
+                    Sample larger than population for 46% G+C content:
+                    209040 needed and 1917 obtained
+*** WARNING ***
+                    Sample larger than population for 47% G+C content:
+                    104520 needed and 1527 obtained
+*** WARNING ***
+                    Sample larger than population for 48% G+C content:
+                    104520 needed and 1060 obtained
+*** WARNING ***
+                    Sample larger than population for 49% G+C content:
+                    104520 needed and 817 obtained
+*** WARNING ***
+                    Sample larger than population for 50% G+C content:
+                    156780 needed and 797 obtained
+*** WARNING ***
+                    Sample larger than population for 52% G+C content:
+                    104520 needed and 378 obtained
